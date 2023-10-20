@@ -18,8 +18,8 @@ I'm a passionate software developer with a focus on Python, FastAPI, SQL, Machin
 Feel free to connect with me through the following platforms:
 
 📫 **Reach me:**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shriabhinavtiwari/)
-- Twitter: [Your Twitter Profile](https://twitter.com/shriabhinav305)
+- LinkedIn: [shriabhinavtiwari](https://www.linkedin.com/in/shriabhinavtiwari/)
+- Twitter: [shriabhinav305](https://twitter.com/shriabhinav305)
 
 Let's code, create, and innovate together! 😄
 
